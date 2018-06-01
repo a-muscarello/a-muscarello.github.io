@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Portfolio"
 baseurl = "http://ambikamuscarello.com/"
 theme = "prologue"
+publishDir = "docs"
+
 
 [params]
   name = "Ambika Muscarello"
