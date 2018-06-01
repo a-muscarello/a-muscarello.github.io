@@ -1,0 +1,63 @@
+
+languageCode = "en-us"
+title = "Portfolio"
+baseurl = "http://ambikamuscarello.com/"
+theme = "prologue"
+
+[params]
+  name = "Ambika Muscarello"
+  description = "Web Developer"
+  copyright = "ambika muscarello 2018."
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/ambikamuscarello/"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/a-muscarello"
+
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "Mentor Me"
+  alt = ""
+  source = "img/mentor-me.png"
+  url = "https://mentor-matching-app.herokuapp.com/"
+
+[[params.portfolio1]]
+  title = "Paper Co"
+  alt = ""
+  source = "img/paperco.png"
+  url = "https://a-muscarello.github.io/paperco/"
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Friendly Bakery"
+  alt = ""
+  source = "img/friendly-bakery.png"
+  url = "https://friendli-bakery.herokuapp.com/"
+
+[[params.portfolio2]]
+  title = "Art Expressions"
+  alt = ""
+  source = "img/art.png"
+  url = "https://a-muscarello.github.io/art/"
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "Travel Blog"
+  alt = ""
+  source = "img/travel-blog.png"
+  url = "https://mytravelblog.herokuapp.com/"
+
+[[params.portfolio3]]
+  title = "Pokedex"
+  alt = ""
+  source = "img/pokedex.png"
+  url = "https://a-muscarello.github.io/pokemon/"
