@@ -29,7 +29,7 @@ publishDir = "."
   alt = ""
   source = "img/mentor-me.png"
   url = "https://mentor-matching-app.herokuapp.com/"
-
+  
 [[params.portfolio1]]
   title = "Paper Co"
   alt = ""
