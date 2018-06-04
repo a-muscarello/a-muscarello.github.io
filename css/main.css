@@ -1710,7 +1710,7 @@
 
 		.image.avatar48 {
 			width: 50px;
-			height: 70px;
+			height: 65px;
 			background: transparent;
 			float: right;
 			margin-right:40px;
@@ -1719,7 +1719,7 @@
 
 			.image.avatar48 img {
 				width: 50px;
-				height: 70px;
+				height: 65px;
 				float: right;
 			}
 
@@ -2184,7 +2184,7 @@
 			#main > section.cover {
 				padding: 12em 0;
 				background-size: cover;
-				background-position: center center;
+				height: 500px;
 				background-repeat: no-repeat;
 			}
 
